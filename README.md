@@ -1,7 +1,7 @@
 # E-Commerce Sales Dashboard
 
 ## Dashboard View
-![E-Commerce Sales Dashboard](https://github.com/shaun-mia/e-commerce-sales-data-analysis/blob/main/Canvas%20background%20image/E_Dashboard.png)
+![E-Commerce Sales Dashboard](https://github.com/gvenkatsai1919/e-commerce-sales-analysis-BI/blob/main/ecommerce-Dashboard.jpg)
 
 ## Description
 This project features an interactive Power BI dashboard designed to analyze e-commerce sales data. The dashboard provides valuable insights through key performance indicators (KPIs) including total sales amount, profit, quantity, and average order value. Utilizing Power Query for data transformation and DAX for advanced calculations, it delivers comprehensive insights and trends.
